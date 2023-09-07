@@ -2,7 +2,6 @@
 
 Before building an email marketing campaign, it’s important to define your goals so you know if your campaign will be a success. One of the most vital factors to consider is how many people read and engage with your emails. This is a great indicator to show if your efforts and resources are worth the investment.
 
-![image](https://blog.bounceless.io/content/images/2019/03/Number-7-Copy-17.png)
 
 Your industry can have a big impact on average click and read rates
 If you just look at metrics across the board, you can get a good idea of how your emails should be performing:
